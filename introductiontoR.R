@@ -3,10 +3,10 @@ print(Name)
 Post="L132AQ"
 getwd()
 
-FirstName = "Alice"
+FirstName = "james"
 print(FirstName)
 
-SecondName = "maina"
+SecondName = "bonds"
 print(SecondName)
 paste(FirstName, SecondName)
 
